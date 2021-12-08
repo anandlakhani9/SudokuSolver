@@ -1,2 +1,2 @@
 # SudokuSolver
-Python sudoku solver coursework
+## Python sudoku solver coursework from AI module
